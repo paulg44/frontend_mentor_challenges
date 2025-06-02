@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  font-family: "Outfit", sans-serif;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(30, 54%, 90%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Young Serif", serif;
+}
+
+img {
+  width: 30%;
+}
+
+.secondaryHeaders {
+  color: hsl(332, 51%, 32%);
+}
+
+.card {
+  width: 450px;
+}
